@@ -18,12 +18,11 @@ status-website:
   cname: status.tecnoscientifica.com
   favicon: https://tecnoscientifica.com/assets/img/favicons/favicon-32x32.png
   logoUrl: https://tecnoscientifica.com/assets/img/logos/tsp-logo-color.svg
-  name: Status Page - Tecno Scientifica
+  name: Status Page
   introTitle: "Tecno Scientifica **uptime monitor** and **status page**."
-  hideNavTitle: true
   #introMessage: "**Tecno Scientifica** uptime monitor and status page."
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
-  footer: This page is hosted on [Github](https://github.com/justudin/tsp-status) and powered by [Upptime](https://upptime.js.org).
+  footer: " "
