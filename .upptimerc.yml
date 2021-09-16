@@ -1,6 +1,7 @@
 # Change these first
 owner: justudin # Your GitHub organization or username, where this repository lives
 repo: tsp-status # The name of this repository
+customStatusWebsitePackage: "@justudin/status-page"
 assignees:
   - justudin
 
@@ -24,5 +25,5 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-customStatusWebsitePackage: @justudin/status-page
+i18n:
+  footer: This page is hosted on [Github](https://github.com/justudin/tsp-status){:target="_blank"} and powered by [Upptime](https://upptime.js.org){:target="_blank"}
