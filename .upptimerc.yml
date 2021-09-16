@@ -1,10 +1,9 @@
 # Change these first
 owner: justudin # Your GitHub organization or username, where this repository lives
 repo: tsp-status # The name of this repository
-customStatusWebsitePackage: "@justudin/status-page"
 assignees:
   - justudin
-
+  
 sites:
   - name: Main Website
     icon: https://tecnoscientifica.com/assets/img/favicons/favicon-32x32.png
