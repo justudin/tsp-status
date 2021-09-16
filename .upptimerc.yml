@@ -1,6 +1,8 @@
 # Change these first
 owner: justudin # Your GitHub organization or username, where this repository lives
 repo: tsp-status # The name of this repository
+assignees:
+  - justudin
 
 sites:
   - name: Main Website
@@ -17,20 +19,8 @@ status-website:
   favicon: https://tecnoscientifica.com/assets/img/favicons/favicon-32x32.png
   logoUrl: https://tecnoscientifica.com/assets/img/logos/tsp-logo-color.svg
   name: Status
-  introTitle: "Tecno Scientifica **uptime monitor** and **status page**."
+  introTitle: "**uptime monitor** and **status page**."
   #introMessage: "**Tecno Scientifica** uptime monitor and status page."
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-assignees:
-  - justudin
-
-workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "*/30 * * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
