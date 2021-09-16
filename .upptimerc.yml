@@ -15,7 +15,7 @@ status-website:
   favicon: https://tecnoscientifica.com/assets/img/favicons/favicon-32x32.png
   logoUrl: https://tecnoscientifica.com/assets/img/logos/tsp-logo-color.svg
   name: Tecno Scientifica uptime monitor and status page
-  #introTitle: Tecno Scientifica
+  introTitle: Status Monitor
   introMessage: "**Tecno Scientifica** uptime monitor and status page."
 
 # Upptime also supports notifications, assigning issues, and more
