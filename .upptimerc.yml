@@ -25,4 +25,4 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
-  footer: This page is hosted on [Github](https://github.com/justudin/tsp-status){:target="_blank"} and powered by [Upptime](https://upptime.js.org){:target="_blank"}
+  footer: This page is hosted on [Github](https://github.com/justudin/tsp-status) and powered by [Upptime](https://upptime.js.org).
