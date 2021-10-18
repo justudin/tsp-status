@@ -32,7 +32,7 @@
     "url": "https://tecnoscientifica.com/journal/tasp",
     "icon": "https://tecnoscientifica.com/assets/img/favicons/favicon-32x32.png",
     "slug": "journals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
@@ -44,6 +44,7 @@
     "timeMonth": 887,
     "timeYear": 824,
     "dailyMinutesDown": {
+      "2021-10-18": 0,
       "2021-10-16": 42,
       "2021-10-15": 17,
       "2021-10-10": 52,
