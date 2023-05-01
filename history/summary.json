@@ -5,16 +5,16 @@
     "icon": "https://tecnoscientifica.com/assets/img/favicons/favicon-32x32.png",
     "slug": "main-website",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.78%",
-    "time": 568,
-    "timeDay": 668,
-    "timeWeek": 363,
-    "timeMonth": 389,
-    "timeYear": 599,
+    "uptimeYear": "99.79%",
+    "time": 569,
+    "timeDay": 508,
+    "timeWeek": 381,
+    "timeMonth": 394,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2023-04-03": 16,
       "2023-01-30": 41,
@@ -41,8 +41,7 @@
       "2022-05-31": 16,
       "2022-05-30": 45,
       "2022-05-22": 23,
-      "2022-05-05": 16,
-      "2022-05-01": 24
+      "2022-05-05": 16
     }
   },
   {
@@ -55,12 +54,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 558,
-    "timeDay": 431,
-    "timeWeek": 432,
-    "timeMonth": 494,
-    "timeYear": 543,
+    "timeDay": 440,
+    "timeWeek": 421,
+    "timeMonth": 479,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2023-04-03": 16,
       "2023-01-30": 41,
@@ -85,8 +84,7 @@
       "2022-06-04": 35,
       "2022-05-30": 45,
       "2022-05-22": 22,
-      "2022-05-05": 16,
-      "2022-05-01": 24
+      "2022-05-05": 16
     }
   }
 ]
