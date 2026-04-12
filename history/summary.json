@@ -6,17 +6,17 @@
     "slug": "main-website",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "96.49%",
-    "uptimeMonth": "92.73%",
-    "uptimeYear": "99.01%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "92.79%",
+    "uptimeYear": "99.00%",
     "time": 396,
-    "timeDay": 241,
+    "timeDay": 248,
     "timeWeek": 266,
-    "timeMonth": 334,
+    "timeMonth": 333,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2026-04-11": 69,
+      "2026-04-11": 66,
       "2026-04-10": 35,
       "2026-04-07": 4,
       "2026-04-06": 98,
@@ -54,7 +54,8 @@
       "2026-02-28": 178,
       "2026-02-27": 40,
       "2026-02-26": 144,
-      "2026-02-25": 303
+      "2026-02-25": 303,
+      "2026-02-23": 36
     }
   },
   {
@@ -64,17 +65,17 @@
     "slug": "journals",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "96.49%",
-    "uptimeMonth": "92.73%",
-    "uptimeYear": "99.01%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "96.52%",
+    "uptimeMonth": "92.79%",
+    "uptimeYear": "99.00%",
     "time": 306,
-    "timeDay": 127,
+    "timeDay": 126,
     "timeWeek": 142,
     "timeMonth": 185,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2026-04-11": 69,
+      "2026-04-11": 66,
       "2026-04-10": 35,
       "2026-04-07": 4,
       "2026-04-06": 98,
@@ -112,7 +113,8 @@
       "2026-02-28": 178,
       "2026-02-27": 40,
       "2026-02-26": 144,
-      "2026-02-25": 303
+      "2026-02-25": 303,
+      "2026-02-23": 36
     }
   }
 ]
