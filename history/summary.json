@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "98.96%",
-    "uptimeWeek": "91.49%",
+    "uptimeWeek": "92.23%",
     "uptimeMonth": "93.64%",
     "uptimeYear": "98.56%",
     "time": 395,
     "timeDay": 263,
-    "timeWeek": 290,
+    "timeWeek": 291,
     "timeMonth": 439,
     "timeYear": 391,
     "dailyMinutesDown": {
@@ -80,17 +80,17 @@
     "slug": "journals",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "91.50%",
-    "uptimeMonth": "93.65%",
-    "uptimeYear": "98.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.39%",
+    "uptimeMonth": "93.68%",
+    "uptimeYear": "98.55%",
     "time": 306,
     "timeDay": 288,
-    "timeWeek": 283,
+    "timeWeek": 290,
     "timeMonth": 419,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2026-03-14": 204,
+      "2026-03-14": 253,
       "2026-03-15": 245,
       "2026-03-16": 214,
       "2026-03-17": 32,
@@ -142,9 +142,7 @@
       "2026-05-23": 146,
       "2026-05-24": 91,
       "2026-05-26": 480,
-      "2026-05-27": 139,
-      "2026-05-30": 15,
-      "2026-05-29": 0
+      "2026-05-27": 139
     }
   }
 ]
