@@ -6,9 +6,9 @@
     "slug": "main-website",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "74.94%",
-    "uptimeMonth": "89.04%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "74.57%",
+    "uptimeMonth": "88.96%",
     "uptimeYear": "98.19%",
     "time": 393,
     "timeDay": 96,
@@ -74,7 +74,7 @@
       "2026-06-04": 309,
       "2026-06-05": 625,
       "2026-06-06": 407,
-      "2026-06-08": 0
+      "2026-06-08": 38
     }
   },
   {
@@ -84,10 +84,10 @@
     "slug": "journals",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "74.96%",
-    "uptimeMonth": "89.09%",
-    "uptimeYear": "98.19%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "74.59%",
+    "uptimeMonth": "89.00%",
+    "uptimeYear": "98.18%",
     "time": 275,
     "timeDay": 127,
     "timeWeek": 242,
@@ -151,7 +151,7 @@
       "2026-06-04": 308,
       "2026-06-05": 624,
       "2026-06-06": 406,
-      "2026-06-08": 0
+      "2026-06-08": 37
     }
   }
 ]
