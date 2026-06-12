@@ -6,16 +6,17 @@
     "slug": "main-website",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "78.62%",
-    "uptimeWeek": "71.03%",
-    "uptimeMonth": "85.25%",
+    "uptimeDay": "81.61%",
+    "uptimeWeek": "72.57%",
+    "uptimeMonth": "85.28%",
     "uptimeYear": "97.90%",
     "time": 390,
-    "timeDay": 193,
+    "timeDay": 236,
     "timeWeek": 247,
     "timeMonth": 261,
     "timeYear": 384,
     "dailyMinutesDown": {
+      "2026-03-21": 26,
       "2026-03-22": 37,
       "2026-03-23": 62,
       "2026-03-25": 102,
@@ -73,8 +74,7 @@
       "2026-06-08": 619,
       "2026-06-09": 357,
       "2026-06-10": 615,
-      "2026-06-11": 297,
-      "2026-06-12": 11
+      "2026-06-11": 296
     }
   },
   {
@@ -84,16 +84,17 @@
     "slug": "journals",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "78.65%",
-    "uptimeWeek": "71.06%",
-    "uptimeMonth": "85.30%",
+    "uptimeDay": "81.62%",
+    "uptimeWeek": "72.60%",
+    "uptimeMonth": "85.33%",
     "uptimeYear": "97.90%",
     "time": 275,
-    "timeDay": 225,
+    "timeDay": 278,
     "timeWeek": 278,
     "timeMonth": 278,
     "timeYear": 259,
     "dailyMinutesDown": {
+      "2026-03-19": 20,
       "2026-03-21": 26,
       "2026-03-22": 37,
       "2026-03-23": 62,
@@ -150,8 +151,7 @@
       "2026-06-08": 618,
       "2026-06-09": 357,
       "2026-06-10": 615,
-      "2026-06-11": 296,
-      "2026-06-12": 11
+      "2026-06-11": 295
     }
   }
 ]
