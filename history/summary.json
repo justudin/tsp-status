@@ -4,15 +4,15 @@
     "url": "https://tecnoscientifica.com",
     "icon": "https://tecnoscientifica.com/assets/img/favicons/favicon-32x32.png",
     "slug": "main-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "94.27%",
+    "uptimeDay": "93.12%",
     "uptimeWeek": "90.92%",
     "uptimeMonth": "85.37%",
     "uptimeYear": "98.33%",
     "time": 384,
-    "timeDay": 1014,
-    "timeWeek": 510,
+    "timeDay": 875,
+    "timeWeek": 508,
     "timeMonth": 501,
     "timeYear": 381,
     "dailyMinutesDown": {
@@ -64,7 +64,7 @@
       "2026-08-17": 29,
       "2026-08-18": 29,
       "2026-08-19": 93,
-      "2026-08-20": 36
+      "2026-08-20": 53
     }
   },
   {
@@ -72,16 +72,16 @@
     "url": "https://tecnoscientifica.com/journal/tasp",
     "icon": "https://tecnoscientifica.com/assets/img/favicons/favicon-32x32.png",
     "slug": "journals",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "95.27%",
-    "uptimeWeek": "91.99%",
+    "uptimeDay": "94.13%",
+    "uptimeWeek": "91.95%",
     "uptimeMonth": "86.21%",
-    "uptimeYear": "98.33%",
+    "uptimeYear": "98.32%",
     "time": 282,
-    "timeDay": 920,
-    "timeWeek": 520,
-    "timeMonth": 519,
+    "timeDay": 809,
+    "timeWeek": 519,
+    "timeMonth": 518,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2026-06-24": 68,
@@ -134,7 +134,7 @@
       "2026-08-17": 24,
       "2026-08-18": 24,
       "2026-08-19": 83,
-      "2026-08-20": 26
+      "2026-08-20": 43
     }
   }
 ]
